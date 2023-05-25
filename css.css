@@ -110,7 +110,7 @@ html{
 }*/
 
 .background-color{
-    nackground: rgb(24,30,39);
+    background: rgb(24,30,39);
     background: -moz-linear-gradient(45deg, rgba(24,30,39,1) 0%, rgba(37,44,54,1) 100%);
     background: -webkit-linear-gradient(45deg, rgba(24,30,39,1) 0%, rgba(37,44,54,1) 100%);
     background: linear-gradient(0deg, rgba(24,30,39,1) 0%, rgba(37,44,54,1) 100%);
